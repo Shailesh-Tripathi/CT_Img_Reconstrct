@@ -1,0 +1,17 @@
+﻿Build started 08-07-2015 16:39:52.
+     1>Project "C:\Users\Shailesh\Documents\Visual Studio 2013\Projects\PARBCUDAPHTM\PARBCUDAPHTM\PARBCUDAPHTM.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         PARBCUDAPHTM.vcxproj -> C:\Users\Shailesh\Documents\Visual Studio 2013\Projects\PARBCUDAPHTM\Debug\PARBCUDAPHTM.exe
+       PostBuildEvent:
+         echo copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.0\bin\cudart*.dll" "C:\Users\Shailesh\Documents\Visual Studio 2013\Projects\PARBCUDAPHTM\Debug\"
+         copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.0\bin\cudart*.dll" "C:\Users\Shailesh\Documents\Visual Studio 2013\Projects\PARBCUDAPHTM\Debug\"
+         :VCEnd
+         copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.0\bin\cudart*.dll" "C:\Users\Shailesh\Documents\Visual Studio 2013\Projects\PARBCUDAPHTM\Debug\"
+         C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.0\bin\cudart32_70.dll
+         C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.0\bin\cudart64_70.dll
+                 2 file(s) copied.
+     1>Done Building Project "C:\Users\Shailesh\Documents\Visual Studio 2013\Projects\PARBCUDAPHTM\PARBCUDAPHTM\PARBCUDAPHTM.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.25
